@@ -27,6 +27,8 @@ In this project, we are creating a basic at-home SOC in the cloud using Microsof
 - [Uploading our Geolocation Data to the SIEM](#Uploading-our-Geolocation-Data-to-the-SIEM)
 - [Inspecting our Enriched Logs](#Inspecting-our-Enriched-Logs)
 
+---
+
 ## Setting up the Virtual Machine
 
 1. Once we have logged into Microsoft Azure we can create our Resource Group
