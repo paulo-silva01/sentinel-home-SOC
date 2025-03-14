@@ -14,6 +14,17 @@ In this project, we are creating a basic at-home SOC in the cloud using Microsof
 
 ---
 
+# Table of Contents
+
+- [Setting up the Virtual Machine](#Setting-up-the-Virtual-Machine)
+- [Accessing and Pinging our Virtual Machine](#Accessing-and-Pinging-our-Virtual-Machine)
+- [View Raw Logs on the Virtual Machine](#View-Raw-Logs-on-the-Virtual-Machine)
+- [Creating our Log Repository](#Creating-our-Log-Repository)
+- [Connecting our VM to LAW](#Connecting-our-VM-to-LAW)
+- [Querying our Log Repository with KQL](#Querying-our-Log-Repository-with-KQL)
+- [Uploading our Geolocation Data to the SIEM](#Uploading-our-Geolocation-Data-to-the-SIEM)
+- [Inspecting our Enriched Logs](#Inspecting-our-Enriched-Logs)
+
 ## Setting up the Virtual Machine
 
 1. Once we have logged into Microsoft Azure we can create our Resource Group
