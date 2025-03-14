@@ -1,6 +1,7 @@
 # Sentinel Home Security Operations Center
 
 In this project, we are creating a basic at-home SOC in the cloud using Microsoft Azure. We will create a virtual machine (VM) that is exposed to the internet as a honeypot, forwarding those logs to a repository where we can use Microsoft Sentinel to analyze them
+<img width="1000" src="https://github.com/user-attachments/assets/bc67e32c-a604-4147-b294-e86144fca4c4" />
 
 ---
 
